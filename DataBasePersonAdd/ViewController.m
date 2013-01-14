@@ -36,6 +36,18 @@
     [self creatOrOpendataBase];
 }
 
+//- (void)viewDidLoad
+//{
+//    [super viewDidLoad];
+//    
+//    [[self myTableView]setDelegate:self];
+//    [[self myTableView]setDataSource:self];
+//    //adding array of person
+//    arrayOfPerson = [[NSMutableArray alloc]init];
+//    [self creatOrOpendataBase];
+//}
+
+
 -(void)creatOrOpendataBase
 {
     
